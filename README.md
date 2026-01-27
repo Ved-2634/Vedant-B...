@@ -64,8 +64,36 @@ Smaller experiments, learning-based builds, and personal explorations outside fo
 
 ➡️ **Side Projects** (coming soon)
 
-1. Local Marker-pdf OCR worker.
-2. Local completely offline Quiz App.
+##### 1. Local PDF OCR Worker
+
+A local automation tool that traverses folders and files to process PDFs used for marker-pdf, allows generating structured outputs in batch mode.
+
+- Local-first workflow
+- Folder and file traversal
+- Structured output generation
+- Designed for personal knowledge processing
+
+➡️ **Repository:**  
+[Local PDF OCR Worker](http
+
+
+##### 2. Local Quiz Application
+A local desktop quiz application built using Tkinter that allows users to create, 
+manage, and quiz themselves on highly structured academic content.
+
+Key features include:
+- Hierarchical course structure
+  *(Institute → Domain → Course → Units → Chapters → Topics → Concepts)*
+- Flexible question types (MCQ, MAQ, fill blanks, reorder, match, true false, etc.).
+- Configurable quiz settings (timer, difficulty, filters).
+- Immediate feedback and results.
+- Use prompt generator window to let LLM build `JSON / CSV` file of questions.
+- Easily import `JSON / CSV` files to targeted level.
+
+➡️ **Repository:**  
+[Local Quiz Application](http
+
+
 3. (more to come)
 
 ---
