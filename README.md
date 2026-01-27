@@ -40,6 +40,8 @@ Use the links below to navigate through different types of content on this profi
 
 Personal study notes, concept explanations, GATE preparation material, and structured PDFs.
 
+---
+
 **Links to Repositories** (coming soon)
 
 ---
@@ -64,6 +66,8 @@ Smaller experiments, learning-based builds, and personal explorations outside fo
 
 🚀 **List of Side Projects** (coming soon)
 
+---
+
 ##### 1. Local PDF OCR Worker
 
 A local automation tool that traverses folders and files to process PDFs used for marker-pdf, allows generating structured outputs in batch mode.
@@ -74,8 +78,9 @@ A local automation tool that traverses folders and files to process PDFs used fo
 - Designed for personal knowledge processing
 
 **Repository:**  
-[Local PDF OCR Worker](http
+[Local PDF OCR Worker](http)
 
+---
 
 ##### 2. Local Quiz Application
 A local desktop quiz application built using Tkinter that allows users to create, manage, and quiz themselves on highly structured academic content.
@@ -90,8 +95,9 @@ Key features include:
 - Easily import `JSON / CSV` files to targeted level.
 
 **Repository:**  
-[Local Quiz Application](http
+[Local Quiz Application](http)
 
+---
 
 3. (more to come)
 
@@ -107,9 +113,11 @@ Topics may include:
 - FPGA concepts
 - Quantum computation (foundational intuition)
 
+---
+
 **Links to Tutorials & Guides** (coming soon)
 
-1. [How to safely and correctly use an unknown NEMA17 stepper motor when you don’t have a datasheet.](http
+1. [How to safely and correctly use an unknown NEMA17 stepper motor when you don’t have a datasheet.](http)
 A complete, datasheet-agnostic guide covering motor identification, driver selection, current calculations, DRV8825 configuration, and practical reliability considerations. (Repository coming soon)
 
 ---
