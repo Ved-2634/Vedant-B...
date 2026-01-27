@@ -47,26 +47,15 @@ Personal study notes, concept explanations, GATE preparation material, and struc
 ### 🧪 Main Projects (Resume-Oriented)
 Well-documented, industry-relevant projects with clear problem statements, design choices, and results.
 
-➡️ **Flagship Projects** (coming soon)
-
----
-
-### 🔧 Hardware & Electronics Projects
-Circuit designs, schematics, simulations, lab work, and hardware experiments.  
-(Some projects may include diagrams, reports, and demo videos.)
-
 ➡️ **Hardware Projects** (coming soon)
 
 1. Coffee making machine using Arduino UNO (coming soon)
 2. Transimpedance Amplifier for BPW34 (coming soon)
 3. Solar Panel Cleaner with grid mapping precision (coming soon)
 
----
-
-### 💻 Software & Computational Projects
-Exploratory and applied projects in areas such as AI, neural networks, signal processing, and computational methods.
-
 ➡️ **Software Projects** (coming soon)
+
+(Coming soon)
 
 ---
 
