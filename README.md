@@ -40,7 +40,7 @@ Use the links below to navigate through different types of content on this profi
 
 Personal study notes, concept explanations, GATE preparation material, and structured PDFs.
 
-································
+································································································································
 
 **Links to Repositories** (coming soon)
 
@@ -55,7 +55,7 @@ Well-documented, industry-relevant projects with clear problem statements, desig
 2. Transimpedance Amplifier for BPW34 (coming soon)
 3. Solar Panel Cleaner with grid mapping precision (coming soon)
 
-································
+································································································································
 
 💾 **Software Projects** (coming soon)
 
@@ -68,7 +68,7 @@ Smaller experiments, learning-based builds, and personal explorations outside fo
 
 🚀 **List of Side Projects** (coming soon)
 
-································
+································································································································
 
 ##### 1. Local PDF OCR Worker
 
@@ -82,7 +82,7 @@ A local automation tool that traverses folders and files to process PDFs used fo
 **Repository:**  
 [Local PDF OCR Worker](http)
 
-································
+································································································································
 
 ##### 2. Local Quiz Application
 A local desktop quiz application built using Tkinter that allows users to create, manage, and quiz themselves on highly structured academic content.
@@ -99,7 +99,7 @@ Key features include:
 **Repository:**  
 [Local Quiz Application](http)
 
-································
+································································································································
 
 3. (more to come)
 
@@ -115,7 +115,7 @@ Topics may include:
 - Quantum computation (foundational intuition)
 - Software walkthroughs and Explanations
 
-································
+································································································································
 
 **Links to Tutorials & Guides** (coming soon)
 
