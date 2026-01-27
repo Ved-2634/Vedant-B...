@@ -114,7 +114,7 @@ Topics may include:
 
 ## 🧭 How to Use This Profile
 
-- Each repository is organized with a clear README and documentation
+- Each repository is organized with a clear `README` and documentation
 - Notes and resources are grouped by subject for easy reference
 - Projects emphasize clarity, reproducibility, and learning outcomes
 - This profile will continue to evolve as I learn and build
@@ -123,7 +123,7 @@ Topics may include:
 
 ## 🧩 Philosophy
 
-I believe in learning deeply, documenting clearly, and building step by step. This GitHub profile is a living academic and engineering portfolio — not just a code dump.
+I believe in learning deeply, documenting clearly, and building step by step. This GitHub profile is a living academic and engineering portfolio, not just a code dump.
 
 I am interested not only in what we learn, but in how we learn. My goal is to break complex ideas into intuitive, structured explanations that are useful both to others and to my own understanding.
 
