@@ -53,15 +53,15 @@ Well-documented, industry-relevant projects with clear problem statements, desig
 
 🛠️ **Hardware Projects** (coming soon)
 
-1. Coffee making machine using Arduino UNO (coming soon)
-2. Transimpedance Amplifier for BPW34 (coming soon)
-3. Solar Panel Cleaner with grid mapping precision (coming soon)
+1. [Coffee making machine using Arduino UNO](http)
+2. [Transimpedance Amplifier for BPW34](http)
+3. [Solar Panel Cleaner with grid mapping precision](http)
 
 · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·
 
 💾 **Software Projects** (coming soon)
 
-(Coming soon)
+1. [LLM Automation Hub](http)
 
 ---
 
