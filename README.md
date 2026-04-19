@@ -31,12 +31,9 @@ While my core background is in electronics and communication systems, I actively
 - Cyber-security Hardware (aspiring as passion)
 
 ---
+---
 
 ## 📂 Explore My Work
-
-Use the links below to navigate through different types of content on this profile.
-
----
 
 ### 📘 Academic Notes & Learning Resources
 
@@ -49,15 +46,11 @@ Personal study notes, concept explanations, GATE preparation material, and struc
 ### 🧪 Main Projects (Resume-Oriented)
 Well-documented, industry-relevant projects with clear problem statements, design choices, and results.
 
-· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·
-
 🛠️ **Hardware Projects** (coming soon)
 
 1. [Coffee making machine using Arduino UNO](http)
 2. [Transimpedance Amplifier for BPW34](http)
 3. [Solar Panel Cleaner with grid mapping precision](http)
-
-· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·
 
 💾 **Software Projects** (coming soon)
 
@@ -82,8 +75,6 @@ A local automation tool that traverses folders and files to process PDFs used fo
 **Repository:**  
 [Local PDF OCR Worker](http)
 
-· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·
-
 ##### 2. Local Quiz Application
 A local desktop quiz application built using Tkinter that allows users to create, manage, and quiz themselves on highly structured academic content.
 
@@ -98,8 +89,6 @@ Key features include:
 
 **Repository:**  
 [Local Quiz Application](http)
-
-· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·
 
 3. (more to come)
 
@@ -120,6 +109,9 @@ Topics may include:
 1. [How to safely and correctly use an unknown NEMA17 stepper motor when you don’t have a datasheet.](http) <br>
 A complete, datasheet-agnostic guide covering motor identification, driver selection, current calculations, DRV8825 configuration, and practical reliability considerations. (Repository coming soon)
 
+2. Everything you need to know about Dual Rail Power Supply.
+
+---
 ---
 
 ## 🧭 How to Use This Profile
@@ -130,6 +122,7 @@ A complete, datasheet-agnostic guide covering motor identification, driver selec
 - This profile will continue to evolve as I learn and build
 
 ---
+---
 
 ## 🧩 Philosophy
 
@@ -139,6 +132,7 @@ I am interested not only in what we learn, but in how we learn. My goal is to br
 
 This GitHub profile is a record of that process.
 
+---
 ---
 
 ## 📫 Contact
